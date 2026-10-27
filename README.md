@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Raymond 👋
+# Hi, I'm Raymond 
 
 ### Frontend engineer · Builder · Curious problem solver
 
